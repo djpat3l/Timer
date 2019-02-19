@@ -1,1 +1,1 @@
-# Timer
+React Boiler-plate Application
